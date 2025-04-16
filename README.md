@@ -2,6 +2,7 @@
 
 MERN Stack Developer | Freelancer on Fiverr  
 Currently working on [Kought Chat App]
+
 Learning: Three.js, Flutter, AI integration
 
 
